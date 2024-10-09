@@ -1,3 +1,5 @@
+I havent managed to remove the sound from the surfboard. (Maybe someone can comment a way to do it) I have set the audiohash as null, set the fWaveAudioMult to 0 but still not removing the engine sound. I also havent remove the trunk storage. ITEMS PLACED IN THE TRUNK WILL BE DELETED ON DESPAWN OF THE SURFBOARD
+
 **INSTALLATION**
 Remove "-main" from the folder name
 
